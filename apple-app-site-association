@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3TH5R7YS88.com.anchorfree.wifishield",
+                "paths":[ "*" ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "3TH5R7YS88.com.anchorfree.wifishield"
+        ]
+    }
+}
