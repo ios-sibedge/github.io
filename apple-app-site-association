@@ -3,14 +3,14 @@
         "apps": [],
         "details": [
             {
-                "appID": "3TH5R7YS88.com.anchorfree.wifishield",
+                "appID": "55M8MNVL6L.com.northghost.wifishield",
                 "paths":[ "*" ]
             }
         ]
     },
     "webcredentials": {
         "apps": [
-            "3TH5R7YS88.com.anchorfree.wifishield"
+            "55M8MNVL6L.com.northghost.wifishield"
         ]
     }
 }
