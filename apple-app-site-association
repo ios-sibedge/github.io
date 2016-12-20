@@ -7,10 +7,5 @@
                 "paths":[ "*" ]
             }
         ]
-    },
-    "webcredentials": {
-        "apps": [
-            "55M8MNVL6L.com.northghost.wifishield"
-        ]
     }
 }
